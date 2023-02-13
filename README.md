@@ -1,2 +1,1 @@
-# gitpull ejemplo
-# repositorio pra practicar git pull
+# gitpull ejemplo repositorio pra practicar git pull free
